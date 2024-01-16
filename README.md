@@ -1,6 +1,5 @@
 - 👋 Holaaaa, Soy @Libnydom
 - 👀 Me gusta mucho la tecnología, los cómics y sobre todo los gatos.
-- 🌱 Actualmente estoy aprendiendo programación, en Launch X.
 - 📫 Puedes buscarme en Twitter como @LibnyDom
  
 
