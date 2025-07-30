@@ -26,7 +26,6 @@ Actualmente estoy fortaleciendo mis habilidades como desarrolladora web mientras
 
 - Dashboards interactivos para reportes ejecutivos.
 - Formularios web y scripts para automatizar tareas internas.
-- Análisis de calidad y desempeño en atención al cliente.
 - Proyectos personales para mejorar mis habilidades como dev.
 
 ---
